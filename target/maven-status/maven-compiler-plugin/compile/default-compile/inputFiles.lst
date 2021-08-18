@@ -1,0 +1,10 @@
+D:\workspace\SlackBot\src\main\java\mmt\slack\helper\AutomationHelper.java
+D:\workspace\SlackBot\src\main\java\mmt\slack\BotApp.java
+D:\workspace\SlackBot\src\main\java\mmt\slack\pojo\AutomationTriggerDTO.java
+D:\workspace\SlackBot\src\main\java\mmt\slack\constants\CommandSupported.java
+D:\workspace\SlackBot\src\main\java\mmt\slack\service\SlackApp.java
+D:\workspace\SlackBot\src\main\java\mmt\slack\constants\ProjectAutomationStatus.java
+D:\workspace\SlackBot\src\main\java\mmt\slack\constants\Component.java
+D:\workspace\SlackBot\src\main\java\mmt\slack\helper\Common.java
+D:\workspace\SlackBot\src\main\java\mmt\slack\service\GlobalVariables.java
+D:\workspace\SlackBot\src\main\java\mmt\slack\pojo\Project.java
